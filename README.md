@@ -1,34 +1,33 @@
-# 👋 Hi, I'm Walid Bhuiyan!  
-🚀 Passionate about technology, coding, and continuous learning. Always eager to collaborate on exciting projects!  
+# 👋 Hi, I'm Jahan Walid!  
+🎮 Passionate **Game Developer** | 💻 Software Enthusiast | 🚀 Always Innovating  
 
-## 🔍 About Me  
-- 💻 Software Developer | Tech Enthusiast | Open-Source Contributor  
-- 📚 Currently learning **AI, Machine Learning, and Web Development**  
-- 💡 I enjoy solving problems and creating **efficient, scalable** solutions  
+## 🌍 About Me  
+- 📍 Based in **Dhaka, Bangladesh**  
+- 🎮 I love creating **immersive and engaging gaming experiences**  
+- 💡 Proficient in **C++, Java, and web development**  
+- 🚀 Always eager to **learn new technologies** and contribute to exciting projects  
+- 🔥 Hard worker with **strong leadership qualities** and a dedication to continuous improvement  
 
-## 🔧 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+## 🛠 Tech Stack  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-## 🚀 What I Do  
-- 🛠 Building **full-stack web applications**  
-- 🤖 Exploring **Machine Learning & AI**  
-- 📈 Working on **open-source projects** and contributing to the developer community  
 
 ## 🎯 Goals for 2024  
-- 🚀 Master advanced **backend development**  
-- 🌍 Contribute to more **open-source projects**  
-- ✨ Learn and implement **DevOps best practices**  
+- 🚀 Develop and launch **new indie game projects**  
+- 🌍 Contribute to **open-source game development communities**  
+- 🎓 Learn **advanced game physics and AI programming**  
+- 🔥 Collaborate on **exciting gaming and software projects**  
 
 ## 📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=dev.to&logoColor=white)](https://yourportfolio.com)  
+📧 **Email:** [m.jahanwalid1@gmail.com](mailto:m.jahanwalid1@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-jahan-walid-0b95962b4)  
 
-💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*  
+💡 *"The best games are built by those who never stop playing."* 🎮  
 
 ---
-⭐ **Feel free to check out my repositories and collaborate on cool projects!**  
+⭐ **Check out my repositories and let's create something amazing together!** 🚀  
