@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jahan Walid!  
 🎮 Passionate **Game Developer** | 💻 Software Enthusiast | 🚀 Always Innovating  
-Portfolio : https://walid-bhuiyan.github.io/Portfolio-/](https://walid-bhuiyan.github.io/MyPortfolio/
-
+Portfolio : [https://walid-bhuiyan.github.io/Portfolio-/](https://walid-bhuiyan.github.io/MyPortfolio/
+](https://walid-bhuiyan.github.io/MyPortfolio/)
 ## 🌍 About Me  
 - 📍 Based in **Dhaka, Bangladesh**  
 - 🎮 I love creating **immersive and engaging gaming experiences**  
